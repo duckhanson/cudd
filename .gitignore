@@ -25,8 +25,17 @@
 *.la
 *.a
 *.lib
+*.dep*
 
 # Executables
 *.exe
 *.out
 *.app
+
+# Configuration files
+libtool
+Makefile
+stamp-h1
+*.sh
+config*
+.dirstamp
