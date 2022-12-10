@@ -39,3 +39,9 @@ stamp-h1
 *.sh
 config*
 .dirstamp
+
+# test files
+test*
+*.tst
+differences
+nanotrav
